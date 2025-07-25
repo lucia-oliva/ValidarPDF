@@ -1,0 +1,1 @@
+# En esta carpeta /upload se carga todos los pdf que se requiere analizar.
