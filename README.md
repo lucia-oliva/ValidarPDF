@@ -1,6 +1,6 @@
 # ValidarPDF
 
- Revisa archivos PDF (u otros) en busca de código JavaScript o PHP que pueda estar escondido dentro del archivo. Dectecta codigo JS o PHP que podria estar en archivos PDF de forma superficial.
+ Revisa archivos PDF (u otros) en busca de código JavaScript o PHP que pueda estar escondido dentro del archivo. Dectecta codigo JS o PHP que podria estar en archivos PDF de forma superficial. (No dectecta archivos maliciosos que esté ofuscado, comprimido o disfrazado, No garantiza que el archivo sea seguro.)
 
 ## Pasos
 
